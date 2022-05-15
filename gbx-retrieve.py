@@ -19,7 +19,7 @@ import manialibformat
 
 # path is the Autosaves directory. Use '/' for subfolders even in Windows
 
-path = 'D:/Users/cinephos/Documents/Trackmania/Replays/Autosaves'
+path = 'D:/Users/YourUsernameHere/Documents/Trackmania/Replays/Autosaves'
 dirs = os.listdir(path)
 
 # The output text file has to be deleted if previously created.
