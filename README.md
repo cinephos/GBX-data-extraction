@@ -5,4 +5,4 @@ in the Autosaves dir. Also the date achieved, the name of the map, and a link to
 the trackmania.io leaderboard.
 
 This project will not be reviewed again. It is redesigned in a new repository:
-https://github.com/cinephos/TM2020-Daily-report
+[TM2020 Daily report](https://github.com/cinephos/TM2020-Daily-report)
